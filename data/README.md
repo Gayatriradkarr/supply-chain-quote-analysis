@@ -18,4 +18,4 @@ Q016,Vendor_A,P12345,Widget_X,24.90,105,15,2025-08-16,Electronics,Asia,4,2614.50
 Q017,Vendor_D,P67890,Widget_Y,17.00,160,18,2025-08-17,Mechanical,Asia,2,2720.00,Low,Delayed,Normal,Quality concerns
 Q018,Vendor_B,P54321,Widget_Z,22.50,90,16,2025-08-18,Electronics,North America,3,2025.00,Medium,On-Time,Normal,Standard terms
 Q019,Vendor_C,P98765,Gadget_A,18.50,140,11,2025-08-19,Mechanical,Europe,5,2590.00,High,On-Time,Normal,Fast delivery
-Q020,Vendor_A,P67890,Widget_Y,16.00,170,12,2025-08-20,Mechanical,Asia,4,2720.00,High,On-Time,Normal,Reliable supplier
+Q020,Vendor_A,P67890,Widget_Y,16.00,170,12,2025-08-20,Mechanical,Asia,4,2720.00,High,On-Time,Normal,Reliable supplier.
